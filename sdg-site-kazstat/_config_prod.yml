@@ -1,0 +1,8 @@
+# Jekyll configuration for Open SDG platform
+
+# For production we don't want a subfolder.
+baseurl: ""
+
+# This tells Open SDG to look in _data/site_config_prod.yml for
+# other configuration overrides.
+environment: production
